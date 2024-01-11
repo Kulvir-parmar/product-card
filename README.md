@@ -24,7 +24,7 @@ This is Product Preview Card component challenge.
 
 ### Links
 
-- Live Site URL: [Procut card](https://your-live-site-url.com)
+- Live Site URL: [Procut card](https://product-card-frontend-mentor.vercel.app)
 
 ## My process
 
